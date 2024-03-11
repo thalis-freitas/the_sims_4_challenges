@@ -7,7 +7,7 @@
         <a
           href="#"
           class="nav-link p-2 rounded-lg transition duration-300
-                 ease-in-out hover:shadow-md"
+                 ease-in-out text-secondary hover:shadow-md"
         >
           Introdução
         </a>
@@ -17,7 +17,7 @@
         <a
           href="#"
           class="nav-link p-2 rounded-lg transition duration-300
-                 ease-in-out hover:shadow-md"
+                 ease-in-out text-secondary hover:shadow-md"
         >
           Desafios
         </a>
@@ -27,7 +27,7 @@
         <a
           href="#"
           class="nav-link p-2 rounded-lg transition duration-300
-                 ease-in-out hover:shadow-md"
+                 ease-in-out text-secondary hover:shadow-md"
         >
           Gameplay
         </a>
