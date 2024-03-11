@@ -1,6 +1,8 @@
 <template>
-  <nav class="h-16 bg-nav-light-blue flex items-center justify-between px-4">
-    <img src="../assets/ts4-logo.png" alt="Logo" class="h-14 p-1">
+  <nav class="w-full h-16 bg-nav-light-blue flex items-center justify-between px-4 fixed">
+    <a href="/" class="flex items-center">
+     <img  src="../assets/images/ts4-logo.png" alt="Logo" class="h-14 p-1">
+    </a>
 
     <ul class="flex items-center space-x-6">
       <li>

@@ -12,7 +12,7 @@ O desafio consiste em criar uma landpage com base no modelo de layout Evento (Ev
 
 - [x] Logo
 - [x] Menu
-- [ ] Título destacado sobre o assunto do site com imagem de fundo
+- [x] Título destacado sobre o assunto do site com imagem de fundo
 - [ ] Trecho de texto com plano de fundo colorido
 - [ ] Botão com link interno ou externo
 - [ ] Galeria com imagens com descrição (pelo menos 3 imagens)
