@@ -10,8 +10,8 @@ Este projeto foi desenvolvido para o desafio de criação de uma landpage propos
 
 O desafio consiste em criar uma landpage com base no modelo de layout Evento (Event) do Google Sites, utilizando um tema de preferência do participante, o tema escolhido foi **Desafios do The Sims 4**. O projeto deve incluir os seguintes itens obrigatórios:
 
-- [ ] Logo
-- [ ] Menu
+- [x] Logo
+- [x] Menu
 - [ ] Título destacado sobre o assunto do site com imagem de fundo
 - [ ] Trecho de texto com plano de fundo colorido
 - [ ] Botão com link interno ou externo

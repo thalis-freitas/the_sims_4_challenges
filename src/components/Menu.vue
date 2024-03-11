@@ -1,0 +1,37 @@
+<template>
+  <nav class="h-16 bg-nav-light-blue flex items-center justify-between px-4">
+    <img src="../assets/ts4-logo.png" alt="Logo" class="h-14 p-1">
+
+    <ul class="flex items-center space-x-6">
+      <li>
+        <a
+          href="#"
+          class="nav-link p-2 rounded-lg transition duration-300
+                 ease-in-out hover:shadow-md"
+        >
+          Introdução
+        </a>
+      </li>
+
+      <li>
+        <a
+          href="#"
+          class="nav-link p-2 rounded-lg transition duration-300
+                 ease-in-out hover:shadow-md"
+        >
+          Desafios
+        </a>
+      </li>
+
+      <li>
+        <a
+          href="#"
+          class="nav-link p-2 rounded-lg transition duration-300
+                 ease-in-out hover:shadow-md"
+        >
+          Gameplay
+        </a>
+      </li>
+    </ul>
+  </nav>
+</template>
