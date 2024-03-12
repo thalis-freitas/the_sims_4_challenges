@@ -78,10 +78,10 @@
         >
           <img
             src="../assets/images/challenges/vida_longa.jpg"
-            alt="Desafio vida"
+            alt="Desafio vida longa"
             class="w-full h-48"
           >
-          <p class="text-center mt-2 text-nav-light-blue">Viúva negra</p>
+          <p class="text-center mt-2 text-nav-light-blue">Vida longa</p>
         </a>
       </div>
     </section>
