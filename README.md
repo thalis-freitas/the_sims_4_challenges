@@ -16,7 +16,7 @@ O desafio consiste em criar uma landpage com base no modelo de layout Evento (Ev
 - [x] Trecho de texto com plano de fundo colorido
 - [x] Botão com link interno ou externo
 - [x] Galeria com imagens com descrição (pelo menos 3 imagens)
-- [ ] Vídeo
+- [x] Vídeo
 - [ ] Mapa de localização
 - [ ] Formulário para coletar cadastro
 - [ ] Rodapé com a frase criado por "seunome" - apenas para fins didáticos

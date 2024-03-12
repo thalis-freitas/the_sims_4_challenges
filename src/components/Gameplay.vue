@@ -32,5 +32,14 @@
       baixos da vida sim. Prepare-se para se encantar com suas aventuras e
       descobertas enquanto ele busca o sucesso em todas as cores do arco-íris!
     </p>
+
+    <div class="flex justify-end mx-5">
+      <a
+        class="px-10 py-3 bg-secondary text-white rounded-lg"
+        href="https://www.youtube.com/watch?v=bNeJ2laDIX8&list=PL51qh4nL2EX6VgM0_gFqlKcgkg4fIy1f2&index=2"
+      >
+        Acessar playlist
+      </a>
+    </div>
   </section>
 </template>
