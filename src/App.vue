@@ -17,5 +17,9 @@ import Form from './components/Form.vue'
     <Gameplay/>
     <Map/>
     <Form/>
+
+    <footer class="bg-secondary text-center text-white text-2xl p-3">
+      Desenvolvido por Thalis Freitas
+    </footer>
   </main>
 </template>
