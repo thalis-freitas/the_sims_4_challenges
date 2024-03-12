@@ -20,7 +20,7 @@
 
       <li>
         <a
-          href="#"
+          href="#challenges"
           class="nav-link p-2 rounded-lg transition duration-300
                  ease-in-out text-secondary hover:shadow-md"
         >
