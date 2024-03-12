@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido para o desafio de criação de uma landpage proposto durante o onboarding do programa Descodificadas 2024-1. O objetivo é desenvolver uma landpage utilizando HTML, CSS e JavaScript, seguindo um layout definido e incluindo itens obrigatórios.
 
+Link de acesso: https://the-sims-4-challenges.vercel.app/
+
 ## Sumário
   * [Atividades a serem realizadas](#atividades-a-serem-realizadas)
   * [Passo a passo para rodar o projeto localmente](#passo-a-passo-para-rodar-o-projeto-localmente)
@@ -22,7 +24,7 @@ O desafio consiste em criar uma landpage com base no modelo de layout Evento (Ev
 - [x] Rodapé com a frase criado por "seunome" - apenas para fins didáticos
 
 ## Melhoria
--[ ] Tornar responsivo
+- [ ] Tornar responsivo
 
 ## Passo a passo para rodar o projeto localmente
 
