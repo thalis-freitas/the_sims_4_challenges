@@ -5,6 +5,7 @@ import Intro from './components/Intro.vue'
 import Challenges from './components/Challenges.vue'
 import Gameplay from './components/Gameplay.vue'
 import Map from './components/Map.vue'
+import Form from './components/Form.vue'
 </script>
 
 <template>
@@ -15,5 +16,6 @@ import Map from './components/Map.vue'
     <Challenges/>
     <Gameplay/>
     <Map/>
+    <Form/>
   </main>
 </template>
