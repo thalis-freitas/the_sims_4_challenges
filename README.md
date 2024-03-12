@@ -21,6 +21,9 @@ O desafio consiste em criar uma landpage com base no modelo de layout Evento (Ev
 - [x] Formulário para coletar cadastro
 - [x] Rodapé com a frase criado por "seunome" - apenas para fins didáticos
 
+## Melhoria
+-[ ] Tornar responsivo
+
 ## Passo a passo para rodar o projeto localmente
 
 #### Este projeto requer o Node.js instalado em sua máquina. A versão mínima suportada é a 10. Você pode baixar e instalar o Node.js em [nodejs.org](https://nodejs.org/).
